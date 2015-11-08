@@ -124,3 +124,16 @@ pre {
 .toclevel-3,  .toclevel-4, .toclevel-5, .toclevel-6 {
     display: none;
 }
+
+table th {
+	color: #fff;
+ 	background-color: #478061 !important;
+}
+
+table, th, td {
+	border: 1px solid #478061 !important;
+}
+
+tr:nth-child(even) {
+    background-color: #ABC2AB;
+}
